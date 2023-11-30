@@ -1,0 +1,11 @@
+When x = -3, y is 9.999413    
+When x = 10, y is 0.340462    
+When x = -3, y is 9.999413    
+When x = -2, y is 28.411348   
+When x = -1, y is 184.300873  
+When x = 0, y is -Inf        
+When x = 1, y is -98.513262  
+When x = 2, y is -6.647979   
+When x = 3, y is -0.246896   
+When x = 4, y is 0.637365    
+When x = 5, y is 0.712499    
